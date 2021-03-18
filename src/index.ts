@@ -1,1 +1,0 @@
-const obj = { key: 'value' };

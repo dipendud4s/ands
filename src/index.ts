@@ -1,1 +1,1 @@
-const obj={key:"value"}
+const obj = { key: 'value' };
